@@ -119,7 +119,7 @@ curl --location --request POST 'localhost:4000/order/place-order' \
 
 2) Or else we can create 3 api and call that 2 api inside one api using axios 
 
-
+3) we can use @hapi/Joi for validations
 
 
 # THANK YOU!!!!
